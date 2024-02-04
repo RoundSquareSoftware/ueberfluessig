@@ -1,0 +1,7 @@
+{
+  "name": "ueberfluessig",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
